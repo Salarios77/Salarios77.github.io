@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+[Resume (Updated Sept 2021)](https://Salarios77.github.io/files/resume.pdf)
+
+<!---
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -57,3 +61,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+-->
