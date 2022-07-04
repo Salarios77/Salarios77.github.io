@@ -20,10 +20,3 @@ This paper is about the number 1. The number 2 is left for future work.
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 -->
-
-## [SLIC: Self-Supervised Learning with Iterative Clustering for Human Action Videos](https://rvl.cs.toronto.edu/video-similarity/#)
-Published in <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>, 2022
-
-What’s a good way to select positives and negatives for self-supervised contrastive learning of video representations? In our paper, we analyze the idea of alternating between clustering and contrastive learning of video representations, using pseudolabels from clustering to improve the selection of positive and negative video examples for contrastive learning. This leads to significantly better retrieval of human action videos and similar accuracy on downstream classification tasks compared to existing self-supervised video representation learning methods.
-
-[[Project Page]](https://rvl.cs.toronto.edu/video-similarity/#) [[Arxiv]](https://arxiv.org/abs/2206.12534) [[Code]](https://github.com/rvl-lab-utoronto/video_similarity_search)
