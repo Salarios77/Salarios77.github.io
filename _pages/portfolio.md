@@ -37,9 +37,13 @@ University of Toronto, CSC413 <em>Neural Networks and Deep Learning</em> (Winter
 ## Real-Time Face Mask Detector using a Faster-RCNN (FPN backbone) Architecture
 University of Toronto, APS360 <em>Applied Fundamentals of Machine Learning</em> (Fall 2020)
 
+Fast (~14 fps) face mask detector which accurately identifies bounding boxes of faces and labels whether a mask is worn (correctly) or not worn using a [Faster-RCNN](https://arxiv.org/abs/1506.01497) (with [FPN](https://arxiv.org/abs/1612.03144) backbone) architecture. Achieves 85% mAP@0.5 on a [kaggle face mask detection dataset](https://www.kaggle.com/wobotintelligence/face-mask-detection-dataset).
+
 [[Project Report]](https://Salarios77.github.io/files/final_report_aps360.pdf) [[Code]](https://github.com/Salarios77/face_mask_detector)
 
 ## Full visual odometry using single scale and transformation invariant feature detectors
 University of Toronto, ROB501 <em>Computer Vision for Robotics</em> (Fall 2020)
+
+In this project, a complete feature-based Visual Odometry (VO) pipeline is implemented and the performance from using the [Harris corner detector](https://www.semanticscholar.org/paper/A-Combined-Corner-and-Edge-Detector-Harris-Stephens/6818668fb895d95861a2eb9673ddc3a41e27b3b3) is compared against the more recently developed [SIFT](https://www.semanticscholar.org/paper/Distinctive-Image-Features-from-Scale-Invariant-LoweDavid/4cab9c4b571761203ed4c3a4c5a07dd615f57a91) and [BRISK](https://www.researchgate.net/publication/221110715_BRISK_Binary_Robust_invariant_scalable_keypoints) feature detectors (which are scale and transformation invariant). The VO pipeline was evaluated on stereo imagery data from the [Canadian Planetary Emulation Terrain Energy-Aware Rover Navigation Dataset](https://starslab.ca/enav-planetary-dataset/).
 
 [[Project Report]](https://Salarios77.github.io/files/ROB501_Feature_based_Visual_Odometry_Report.pdf) [[Code]](https://github.com/Salarios77/feature-based-stereo-visual-odometry)
