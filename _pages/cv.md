@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Resume (Updated Jan 2022)](https://Salarios77.github.io/files/resume.pdf)
+[Resume (July 2022)](https://Salarios77.github.io/files/salar_hosseini_resume.pdf)
 
 <!---
 
